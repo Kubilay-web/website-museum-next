@@ -114,6 +114,12 @@ export default function Home() {
           rel="preload"
           type="font/woff2"
         />
+
+        <link
+          href="https://cdn.londonandpartners.com/webui/visit/icons/icons.data.svg.2024881750.css"
+          rel="stylesheet"
+        />
+
         <link
           as="font"
           crossOrigin="anonymous"
