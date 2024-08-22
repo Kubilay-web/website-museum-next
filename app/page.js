@@ -981,14 +981,6 @@ export default function Home() {
                             href="/things-to-do/whats-on/theatre"
                           >
                             <div className="imgbox">
-                              {/* <div class="anim">
-                      <lottie-player
-                        src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
-                        background="transparent.html"
-                        speed="1"
-                        class="lottie"
-                      ></lottie-player>
-                    </div> */}
                               <img
                                 height={360}
                                 src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
@@ -1014,14 +1006,6 @@ export default function Home() {
                             href="/things-to-do/whats-on/theatre"
                           >
                             <div className="imgbox">
-                              {/* <div class="anim">
-                      <lottie-player
-                        src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
-                        background="transparent.html"
-                        speed="1"
-                        class="lottie"
-                      ></lottie-player>
-                    </div> */}
                               <img
                                 height={360}
                                 src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
@@ -1047,14 +1031,6 @@ export default function Home() {
                             href="/things-to-do/whats-on/theatre"
                           >
                             <div className="imgbox">
-                              {/* <div class="anim">
-                      <lottie-player
-                        src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
-                        background="transparent.html"
-                        speed="1"
-                        class="lottie"
-                      ></lottie-player>
-                    </div> */}
                               <img
                                 height={360}
                                 src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
@@ -1080,14 +1056,6 @@ export default function Home() {
                             href="/things-to-do/whats-on/theatre"
                           >
                             <div className="imgbox">
-                              {/* <div class="anim">
-                      <lottie-player
-                        src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
-                        background="transparent.html"
-                        speed="1"
-                        class="lottie"
-                      ></lottie-player>
-                    </div> */}
                               <img
                                 height={360}
                                 src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
@@ -1113,14 +1081,6 @@ export default function Home() {
                             href="/things-to-do/whats-on/theatre"
                           >
                             <div className="imgbox">
-                              {/* <div class="anim">
-                      <lottie-player
-                        src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
-                        background="transparent.html"
-                        speed="1"
-                        class="lottie"
-                      ></lottie-player>
-                    </div> */}
                               <img
                                 height={360}
                                 src="/Index/images/afternoon-tea-bus-with-panoramic-tour-of-london_spot-famous-sights-of-london-while-tucking-into-an-afternoon-tea-visitlondoncommichael-barrow_dcf050164fabb6245f817df087e2ed6b.jpg"
